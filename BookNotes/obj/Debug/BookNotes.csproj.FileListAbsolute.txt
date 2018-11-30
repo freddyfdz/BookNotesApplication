@@ -1,0 +1,36 @@
+c:\users\soporte\documents\visual studio 2015\Projects\BookNotesApplication\BookNotes\bin\Debug\BookNotes.exe.config
+c:\users\soporte\documents\visual studio 2015\Projects\BookNotesApplication\BookNotes\bin\Debug\BookNotes.exe
+c:\users\soporte\documents\visual studio 2015\Projects\BookNotesApplication\BookNotes\bin\Debug\BookNotes.pdb
+c:\users\soporte\documents\visual studio 2015\Projects\BookNotesApplication\BookNotes\obj\Debug\BookNotes.csprojResolveAssemblyReference.cache
+c:\users\soporte\documents\visual studio 2015\Projects\BookNotesApplication\BookNotes\obj\Debug\BookNotes.Form1.resources
+c:\users\soporte\documents\visual studio 2015\Projects\BookNotesApplication\BookNotes\obj\Debug\BookNotes.Properties.Resources.resources
+c:\users\soporte\documents\visual studio 2015\Projects\BookNotesApplication\BookNotes\obj\Debug\BookNotes.csproj.GenerateResource.Cache
+c:\users\soporte\documents\visual studio 2015\Projects\BookNotesApplication\BookNotes\obj\Debug\BookNotes.exe
+c:\users\soporte\documents\visual studio 2015\Projects\BookNotesApplication\BookNotes\obj\Debug\BookNotes.pdb
+E:\proyecto colegio\BookNotesApplication\BookNotes\bin\Debug\BookNotes.exe.config
+E:\proyecto colegio\BookNotesApplication\BookNotes\obj\Debug\BookNotes.exe
+E:\proyecto colegio\BookNotesApplication\BookNotes\obj\Debug\BookNotes.pdb
+E:\proyecto colegio\BookNotesApplication\BookNotes\bin\Debug\BookNotes.exe
+E:\proyecto colegio\BookNotesApplication\BookNotes\bin\Debug\BookNotes.pdb
+E:\proyecto colegio\BookNotesApplication\BookNotes\obj\Debug\BookNotes.csprojResolveAssemblyReference.cache
+E:\proyecto colegio\BookNotesApplication\BookNotes\obj\Debug\BookNotes.Form1.resources
+E:\proyecto colegio\BookNotesApplication\BookNotes\obj\Debug\BookNotes.Properties.Resources.resources
+E:\proyecto colegio\BookNotesApplication\BookNotes\obj\Debug\BookNotes.csproj.GenerateResource.Cache
+C:\Users\SOPORTE\Documents\GitHub\BookNotes\BookNotesApplication\BookNotes\bin\Debug\BookNotes.exe.config
+C:\Users\SOPORTE\Documents\GitHub\BookNotes\BookNotesApplication\BookNotes\obj\Debug\BookNotes.exe
+C:\Users\SOPORTE\Documents\GitHub\BookNotes\BookNotesApplication\BookNotes\obj\Debug\BookNotes.pdb
+C:\Users\Diana Restrepo\Documents\GitHub\BookNotes\BookNotesApplication\BookNotes\bin\Debug\BookNotes.exe.config
+C:\Users\Diana Restrepo\Documents\GitHub\BookNotes\BookNotesApplication\BookNotes\obj\Debug\BookNotes.exe
+C:\Users\Diana Restrepo\Documents\GitHub\BookNotes\BookNotesApplication\BookNotes\obj\Debug\BookNotes.pdb
+C:\Users\Diana Restrepo\Documents\GitHub\BookNotes\BookNotesApplication\BookNotes\bin\Debug\BookNotes.exe
+C:\Users\Diana Restrepo\Documents\GitHub\BookNotes\BookNotesApplication\BookNotes\bin\Debug\BookNotes.pdb
+C:\Users\Diana Restrepo\Documents\GitHub\BookNotes\BookNotesApplication\BookNotes\obj\Debug\BookNotes.csprojResolveAssemblyReference.cache
+C:\Users\Diana Restrepo\Documents\GitHub\BookNotes\BookNotesApplication\BookNotes\obj\Debug\BookNotes.login.resources
+C:\Users\Diana Restrepo\Documents\GitHub\BookNotes\BookNotesApplication\BookNotes\obj\Debug\BookNotes.Properties.Resources.resources
+C:\Users\Diana Restrepo\Documents\GitHub\BookNotes\BookNotesApplication\BookNotes\obj\Debug\BookNotes.Registro.resources
+C:\Users\Diana Restrepo\Documents\GitHub\BookNotes\BookNotesApplication\BookNotes\obj\Debug\BookNotes.csproj.GenerateResource.Cache
+C:\Users\Diana Restrepo\Documents\GitHub\BookNotes\BookNotesApplication\BookNotes\obj\Debug\BookNotes.RolAdmin.resources
+C:\Users\user\Documents\GitHub\BookNotes\BookNotesApplication\BookNotes\bin\Debug\BookNotes.exe.config
+C:\Users\user\Documents\GitHub\BookNotes\BookNotesApplication\BookNotes\obj\Debug\BookNotes.exe
+C:\Users\user\Documents\GitHub\BookNotes\BookNotesApplication\BookNotes\obj\Debug\BookNotes.pdb
+C:\Users\Diana Restrepo\Documents\GitHub\BookNotes\BookNotesApplication\BookNotes\obj\Debug\BookNotes.RolProfesor.resources
