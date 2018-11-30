@@ -26,6 +26,17 @@ namespace BookNotes
             return resultado;
         }
 
+        public static int NewMateria (RegMateria pMaterias)
+        {
+            int retorno = 0;
+            using (SqlConnection Conn = DbConnect.ObtenerConexion())
+            {
+                SqlCommand comando = new SqlCommand(string.Format("insert into Materias (idMateria, NombreMateria) values ('{0}','{1}')", pMaterias.Id,pMaterias.Materia),Conn);
+                retorno = comando.ExecuteNonQuery();
+            }
+            return retorno;
+        }
+
         public static int Agregar(RegUser pUsuario)
         {
 
