@@ -13,9 +13,7 @@ namespace BookNotes
         {
             SqlConnection conn = new SqlConnection(@"Data source = FREDDYFDZ\SQLEXPRESS; Initial Catalog = BOOKNOTES; Integrated Security= true ");
             conn.Open();
-
             return conn;
-
         }
     }
 }

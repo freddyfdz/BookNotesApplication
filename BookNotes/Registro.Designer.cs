@@ -29,6 +29,9 @@
         private void InitializeComponent()
         {
             this.panel1 = new System.Windows.Forms.Panel();
+            this.label2 = new System.Windows.Forms.Label();
+            this.NomUsuario = new System.Windows.Forms.TextBox();
+            this.label1 = new System.Windows.Forms.Label();
             this.cancelar = new System.Windows.Forms.Button();
             this.guardar = new System.Windows.Forms.Button();
             this.checkBoxmaterias = new System.Windows.Forms.CheckedListBox();
@@ -43,9 +46,6 @@
             this.apellidos = new System.Windows.Forms.Label();
             this.id = new System.Windows.Forms.Label();
             this.nombres = new System.Windows.Forms.Label();
-            this.label1 = new System.Windows.Forms.Label();
-            this.NomUsuario = new System.Windows.Forms.TextBox();
-            this.label2 = new System.Windows.Forms.Label();
             this.panel1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -74,6 +74,36 @@
             this.panel1.Size = new System.Drawing.Size(583, 468);
             this.panel1.TabIndex = 0;
             this.panel1.Paint += new System.Windows.Forms.PaintEventHandler(this.panel1_Paint);
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Location = new System.Drawing.Point(242, 158);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(242, 26);
+            this.label2.TabIndex = 16;
+            this.label2.Text = "El nombre del usuario esta determinado por la \r\nprimera letra del primer nombre y" +
+    " el primer apellido.";
+            // 
+            // NomUsuario
+            // 
+            this.NomUsuario.Font = new System.Drawing.Font("Maiandra GD", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.NomUsuario.HideSelection = false;
+            this.NomUsuario.Location = new System.Drawing.Point(244, 187);
+            this.NomUsuario.Name = "NomUsuario";
+            this.NomUsuario.Size = new System.Drawing.Size(272, 25);
+            this.NomUsuario.TabIndex = 15;
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Font = new System.Drawing.Font("Maiandra GD", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.Location = new System.Drawing.Point(19, 175);
+            this.label1.Name = "label1";
+            this.label1.RightToLeft = System.Windows.Forms.RightToLeft.No;
+            this.label1.Size = new System.Drawing.Size(170, 19);
+            this.label1.TabIndex = 14;
+            this.label1.Text = "Nombre de usuario:";
             // 
             // cancelar
             // 
@@ -230,36 +260,6 @@
             this.nombres.Text = "Nombres:";
             this.nombres.Click += new System.EventHandler(this.label1_Click);
             // 
-            // label1
-            // 
-            this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Maiandra GD", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(19, 175);
-            this.label1.Name = "label1";
-            this.label1.RightToLeft = System.Windows.Forms.RightToLeft.No;
-            this.label1.Size = new System.Drawing.Size(170, 19);
-            this.label1.TabIndex = 14;
-            this.label1.Text = "Nombre de usuario:";
-            // 
-            // NomUsuario
-            // 
-            this.NomUsuario.Font = new System.Drawing.Font("Maiandra GD", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.NomUsuario.HideSelection = false;
-            this.NomUsuario.Location = new System.Drawing.Point(244, 187);
-            this.NomUsuario.Name = "NomUsuario";
-            this.NomUsuario.Size = new System.Drawing.Size(272, 25);
-            this.NomUsuario.TabIndex = 15;
-            // 
-            // label2
-            // 
-            this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(242, 158);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(242, 26);
-            this.label2.TabIndex = 16;
-            this.label2.Text = "El nombre del usuario esta determinado por la \r\nprimera letra del primer nombre y" +
-    " el primer apellido.";
-            // 
             // Registro
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -269,6 +269,7 @@
             this.Controls.Add(this.panel1);
             this.Name = "Registro";
             this.Text = "Registro";
+            this.Load += new System.EventHandler(this.Registro_Load);
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
             this.ResumeLayout(false);

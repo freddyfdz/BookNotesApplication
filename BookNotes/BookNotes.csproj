@@ -92,6 +92,7 @@
     <Compile Include="Registro.Designer.cs">
       <DependentUpon>Registro.cs</DependentUpon>
     </Compile>
+    <Compile Include="RegUser.cs" />
     <EmbeddedResource Include="1interfazadmin.resx">
       <DependentUpon>1interfazadmin.cs</DependentUpon>
     </EmbeddedResource>

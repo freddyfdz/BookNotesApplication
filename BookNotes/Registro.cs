@@ -61,5 +61,13 @@ namespace BookNotes
         {
 
         }
+
+        private void Registro_Load(object sender, EventArgs e)
+        {
+            PeticionesDB Rol = new PeticionesDB();
+            Rol.LlenarRoles(comboBoxrol);
+            Rol.LlenarCursos(comboBoxcurso);
+            Rol.LlenarMaterias(checkBoxmaterias);
+        }
     }
 }

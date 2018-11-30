@@ -34,3 +34,18 @@ C:\Users\user\Documents\GitHub\BookNotes\BookNotesApplication\BookNotes\bin\Debu
 C:\Users\user\Documents\GitHub\BookNotes\BookNotesApplication\BookNotes\obj\Debug\BookNotes.exe
 C:\Users\user\Documents\GitHub\BookNotes\BookNotesApplication\BookNotes\obj\Debug\BookNotes.pdb
 C:\Users\Diana Restrepo\Documents\GitHub\BookNotes\BookNotesApplication\BookNotes\obj\Debug\BookNotes.RolProfesor.resources
+C:\Users\user\Documents\GitHub\BookNotesApplication\BookNotes\bin\Debug\BookNotes.exe.config
+C:\Users\user\Documents\GitHub\BookNotesApplication\BookNotes\obj\Debug\BookNotes.exe
+C:\Users\user\Documents\GitHub\BookNotesApplication\BookNotes\obj\Debug\BookNotes.pdb
+C:\Users\user\Documents\GitHub\BookNotesApplication\BookNotes\bin\Debug\BookNotes.exe
+C:\Users\user\Documents\GitHub\BookNotesApplication\BookNotes\bin\Debug\BookNotes.pdb
+C:\Users\user\Documents\GitHub\BookNotesApplication\BookNotes\obj\Debug\BookNotes.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\GitHub\BookNotesApplication\BookNotes\obj\Debug\BookNotes._1interfazadmin.resources
+C:\Users\user\Documents\GitHub\BookNotesApplication\BookNotes\obj\Debug\BookNotes._2Interfazadmin.resources
+C:\Users\user\Documents\GitHub\BookNotesApplication\BookNotes\obj\Debug\BookNotes._3Interfazadm.resources
+C:\Users\user\Documents\GitHub\BookNotesApplication\BookNotes\obj\Debug\BookNotes.InterfazAlumno.resources
+C:\Users\user\Documents\GitHub\BookNotesApplication\BookNotes\obj\Debug\BookNotes.InterfazMaestro.resources
+C:\Users\user\Documents\GitHub\BookNotesApplication\BookNotes\obj\Debug\BookNotes.login.resources
+C:\Users\user\Documents\GitHub\BookNotesApplication\BookNotes\obj\Debug\BookNotes.Properties.Resources.resources
+C:\Users\user\Documents\GitHub\BookNotesApplication\BookNotes\obj\Debug\BookNotes.Registro.resources
+C:\Users\user\Documents\GitHub\BookNotesApplication\BookNotes\obj\Debug\BookNotes.csproj.GenerateResource.Cache
